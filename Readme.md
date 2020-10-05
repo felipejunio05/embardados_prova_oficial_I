@@ -1,4 +1,4 @@
-<h1 align="center">PROVA OFICIAL I DE EMBARCADOS FAB - BETIM</h1>
+<h1 align="center">PROVA OFICIAL I DE EMBARCADOS FAP - BETIM</h1>
 
 <p align="justify">Primeira prova bimestral da disciplina de embardados do curso Ciência da Computação. Para este projeto foi desenvolvido um cronometro, utilizado o conceito de multiplexação, pois o arduino uno não possui portas suficiêntes para fazer ligação de 2 displays e para demonstrar o conceito foi utilizado o Potenciômetro para desacelerar a frequência com qual os displays acendiam, assim comprovando que eles não estavam ligados simultaneamente. E o botão foi usado para pausar ou zerar o cronometro, aplicando o conceito de interrupção.</p>
 
